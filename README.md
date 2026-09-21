@@ -6,8 +6,8 @@ I build AI products and the data systems behind them. Over nine years, my work h
 
 At Talentify, I build conversational analytics, recruitment software, and the pipelines that connect them. My work includes:
 
-- Taking conversational analytics from prototype to production, reducing the time to answer business questions from three hours to ten minutes.
-- Building nearly all of a recruitment advertising platform used by close to 100 people, tracking more than US$300K in media spend in August 2026.
+- Taking conversational analytics from prototype to production, reducing the time to answer business questions from hours to minutes.
+- Building all of a recruitment advertising platform used by close to 100 people, tracking more than US$300K in media spend monthly.
 - Building a BigQuery and Python data platform supporting 645 million rows, with integrations across operational databases and external APIs.
 - Creating AI agents with provider fallback, evaluation, tracing, and tool access through MCP.
 
@@ -39,12 +39,12 @@ A weather agent backed by eight MCP tools, with a dashboard for checking its cal
 
 | Area | Tools |
 | --- | --- |
-| AI and agents | Agno, LangGraph, MindsDB, MCP, OpenAI, Anthropic, Gemini, vision models |
-| Data | Python, SQL, BigQuery, Dataform, dlt, Databricks, Spark |
-| Applications | TypeScript, React, Next.js, FastAPI, PostgreSQL, Supabase |
-| Infrastructure | Docker, Dokploy, Redis, Cloudflare, self-hosted Convex, MinIO, Cloud Run |
+| AI & Agents | LangGraph, Agno, MCP, OpenAI, Anthropic, Gemini, xAI, Deepseek, Groq |
+| Data | Python, SQL, BigQuery, DuckDB, Spark, Pandas, Dataform, dbt, dlt, Databricks, MindsDB |
+| Applications | TypeScript, React, Next.js, FastAPI, PostgreSQL, Supabase, Convex |
+| Infrastructure | Docker, Dokploy, Redis, Cloudflare, MinIO, Cloud Run, Vercel, Airflow |
 | Delivery and observability | GitHub Actions, Grafana, LangSmith, Braintrust, Sentry |
 
-I have a degree in Information Systems and a postgraduate qualification in Data Science & Big Data. I'm currently pursuing postgraduate studies in AI at Universidade Federal de Viçosa.
+I have a degree in Computer Information Systems at Universidade do Estado de Mato Gross (UNEMAT) and a postgraduate qualification in Data Science & Big Data at PUC Minas. I'm currently pursuing postgraduate studies in AI at Universidade Federal de Viçosa.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/gabrielsntr/)
